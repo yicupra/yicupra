@@ -26,11 +26,11 @@
 ---
 
 <p align="center">
-<img src="(https://raw.githubusercontent.com/yicupra/yicupra/main/assets/logo.png)" width="150" alt="Logo Yicupra" />
-<br>
+  <img src="https://raw.githubusercontent.com/yicupra/yicupra/main/assets/logo.png" width="150" alt="Logo Yicupra" /><br>
   <i>"Build what can’t be broken. Break what can’t be seen."</i><br>
   <code>root@YICUPRA:~#</code>
 </p>
+
 
 ---
 
