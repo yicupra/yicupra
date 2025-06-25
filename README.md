@@ -29,7 +29,8 @@ Copiar
 ---
 
 <p align="center">
-  <img src="https://github.com/yicupra/yicupra/blob/main/assets/logo.png" width="120" alt="Logo Yicupra"/>
+  <img src="![111](https://github.com/user-attachments/assets/6805412f-258a-499a-b6b1-013a8de96fc2)
+" width="120" alt="Logo Yicupra"/>
 </p>
 
 <p align="center">
@@ -41,6 +42,7 @@ Copiar
 
 ### 📬 Contacto
 
-✉️ <a href="mailto:yicupra@gmail.com">yicupra@gmail.com</a>  
+✉️ <a href="mailto:yicupra@gmail.com">root.yicupra@gmail.com</a>  
 🔗 [YouTube](https://youtube.com/@yicupra) • [X/Twitter](https://x.com/yicupra) • [Reddit](https://reddit.com/u/yicupra)
 
+![111](https://github.com/user-attachments/assets/6805412f-258a-499a-b6b1-013a8de96fc2)
