@@ -14,9 +14,6 @@
 🔐 AES-GCM • XChaCha20 • Ed25519 • Argon2
 🕵️ Reversing • Stego • Forensics • OSINT
 
-less
-Copiar
-
 
 ---
 
@@ -28,9 +25,8 @@ Copiar
 
 ---
 
-![111](https://github.com/user-attachments/assets/08124bd5-af15-4dcf-a7be-28270fbe7911)
-
 <p align="center">
+  <img src="https://github.com/yicupra/yicupra/blob/main/assets/logo.png" width="150" alt="Logo Yicupra" /><br>
   <i>"Build what can’t be broken. Break what can’t be seen."</i><br>
   <code>root@YICUPRA:~#</code>
 </p>
@@ -39,8 +35,6 @@ Copiar
 
 ### 📬 Contacto
 
-
-✉️ <a href="mailto:yicupra@gmail.com">root.yicupra@gmail.com</a>  
+✉️ <a href="mailto:root.yicupra@gmail.com">root.yicupra@gmail.com</a>  
 🔗 [YouTube](https://youtube.com/@yicupra) • [X/Twitter](https://x.com/yicupra) • [Reddit](https://reddit.com/u/yicupra)
-
 
