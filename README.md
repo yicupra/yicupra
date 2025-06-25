@@ -20,8 +20,6 @@
 ### 🧰 Proyectos clave
 
 - 🔒 [HexShield](https://github.com/yicupra/hexshield-v2) → Sistema de cifrado antiforense  
-- 🧠 [CTF Labs](#) → Entrenamiento técnico en Pentesting (próximamente)  
-- 📦 Más pronto...
 
 ---
 
