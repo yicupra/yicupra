@@ -1,5 +1,4 @@
-# yicupra-
-<h1 align="center">root@YICUPRA:~#</h1>
+<h1 align="center">🧬 YICUPRA</h1>
 
 <p align="center">
 🛡️ Arquitecto antiforense ∙ Red/Blue Team ∙ Creador de <strong>HexShield</strong>  
@@ -10,24 +9,38 @@
 ---
 
 ### 🧠 Tech Stack
+
 🖥️ Linux • Python • Bash • Docker
 🔐 AES-GCM • XChaCha20 • Ed25519 • Argon2
 🕵️ Reversing • Stego • Forensics • OSINT
+
+less
+Copiar
 
 
 ---
 
 ### 🧰 Proyectos clave
 
-- 🔒 [HexShield](https://github.com/yicupra/hexshield-v2) → Sistema de cifrado antiforense
+- 🔒 [HexShield](https://github.com/yicupra/hexshield-v2) → Sistema de cifrado antiforense  
+- 🧠 [CTF Labs](#) → Entrenamiento técnico en Pentesting (próximamente)  
+- 📦 Más pronto...
 
 ---
 
 <p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/eebc74c1-69a9-4cbb-b783-d76b6d52133f)
-" width="100" alt="Logo Yicupra">
+  <img src="https://github.com/yicupra/yicupra/blob/main/assets/logo.png" width="120" alt="Logo Yicupra"/>
 </p>
 
 <p align="center">
-  <i>"Build what can’t be broken. Break what can’t be seen."</i>
+  <i>"Build what can’t be broken. Break what can’t be seen."</i><br>
+  <code>root@YICUPRA:~#</code>
 </p>
+
+---
+
+### 📬 Contacto
+
+✉️ <a href="mailto:yicupra@gmail.com">yicupra@gmail.com</a>  
+🔗 [YouTube](https://youtube.com/@yicupra) • [X/Twitter](https://x.com/yicupra) • [Reddit](https://reddit.com/u/yicupra)
+
