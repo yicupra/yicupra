@@ -24,8 +24,8 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/yi![111](https://github.com/user-attachments/assets/ece5d4e0-e223-4fd7-af03-1db4276d700f)
-cupra/yicupra/blob/main/assets/logo.png" width="100" alt="Logo Yicupra">
+  <img src="![image](https://github.com/user-attachments/assets/eebc74c1-69a9-4cbb-b783-d76b6d52133f)
+" width="100" alt="Logo Yicupra">
 </p>
 
 <p align="center">
