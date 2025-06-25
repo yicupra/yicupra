@@ -26,7 +26,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/yicupra/yicupra/blob/main/assets/logo.png" width="150" alt="Logo Yicupra" /><br>
+  <img src="https://github.com/yicupra/yicupra/blob/main/assets/ChatGPT Image 25 jun 2025, 13_46_06.png" width="150" alt="Logo Yicupra" /><br>
   <i>"Build what can’t be broken. Break what can’t be seen."</i><br>
   <code>root@YICUPRA:~#</code>
 </p>
