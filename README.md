@@ -11,7 +11,7 @@
 ## 🏛️ Visión SAHARI™
 
 SAHARI™ es una infraestructura de defensa digital soberana.  
-Desarrollamos criptografía viva, IA antiforense y protección civilizacional.
+
 
 > _“No se trata de defender servidores. Se trata de proteger civilizaciones.”_
 
